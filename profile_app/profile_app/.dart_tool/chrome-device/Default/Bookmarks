@@ -1,0 +1,84 @@
+{
+   "checksum": "8676b5699a5bcfb623d60a789fff47e5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13152698129022246",
+            "date_last_used": "0",
+            "guid": "0c14f0d4-8dae-46f4-93dc-60e2a04acaf8",
+            "id": "6",
+            "name": "Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com.tr/?gws_rd=ssl",
+            "visit_count": 0
+         }, {
+            "date_added": "13156258739493415",
+            "date_last_used": "0",
+            "guid": "b9465a3e-6364-45da-87f2-f7b0b22d7162",
+            "id": "7",
+            "name": "FİSHER' in SERMAYE VE GELİR TEORİSİ | nedir | Ekonomi Terimleri | www.iktisatsozlugu.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.iktisatsozlugu.com/nedir-962-fisher-in-sermaye-ve-gelir-teorisi-#.WhwCrIVOLIV",
+            "visit_count": 0
+         }, {
+            "date_added": "13250734064297360",
+            "date_last_used": "0",
+            "guid": "a67af122-68b8-44de-a02e-f3b6c60eb1f9",
+            "id": "8",
+            "name": "BESİN ÖGELERİ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://megep.meb.gov.tr/mte_program_modul/moduller_pdf/Besin%20%C3%96%C4%9Feleri%20Ve%20Besin%20Gruplar%C4%B1.pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13250777403011712",
+            "date_last_used": "0",
+            "guid": "c47c3abd-f392-4368-9b71-eded83e85a54",
+            "id": "9",
+            "name": "Yeni sekme",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/",
+            "visit_count": 0
+         } ],
+         "date_added": "13386023787455214",
+         "date_last_used": "0",
+         "date_modified": "13250777403011712",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Sık kullanılanlar çubuğu",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13386023787455218",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Diğer sık kullanılanlar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13386023787455219",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobil sık kullanılanlar",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCMXRenyVAQAAKg4QABgBIAAoBjAAOABAABIAKhhsd3pBT0lQeDZ0TlpSVWx3UGlLV2RRPT1IA6AGDBKtAQgJEqgBChxCWm9abUFjODlWRDc4bFU0Z041TjNGRnBNTUU9EiRmMDY1NzA2ZC1jMzE3LTQwMzktYTc4NC1mOTI4ZjQ4ZjkzYzUYACAAKAAwzsbYyNkxOKjFhNf/L0CoxYTX/y9KHDJ4c3NBRkVmQXFDbWsybzI5eHhLVk9FS2tmMD1aHyIduzg0YkJISnVwYnArdmhZdUp1YkJUdE9pL0h6ND1l2K+wAsI+AmAFEqwBCAgSpwEKHE8yeXR1b2tJN1pndnZNM0tmTFJHZTBkY1VpQT0SJDA5MTNlODU3LTg5NzktNDUyNy04MGZhLTExZTBjMDFjYzY5YhgAIAAoADCG1bmm5DA4+sSE1/8vQPrEhNf/L0ocejdBaGdiQWN6YXpxZHI5UkF5Q3djRDRwOHhFPVoeIhx3Ym9BT2RVUjhCdHpEaTVnakE5aFRCTVprcjQ9ZZDffs3CPgJgBRKsAQgGEqcBChw2RjhXSTBYOHNYeDVQVFl3SWRpblRnejNqN3c9EiQ3NzQyMTQ0NC0zZDE4LTQ2ZDgtYjM4Ni04ZGM4YmFhYjQzZjAYACAAKAAwhdW5puQwOIO3hNf/L0CDt4TX/y9KHFR4KzA4N2JQS1l2WDhoS1dhbm5UK25KQ0Y4WT1aHiIcUTk0NTNGUXJ4QVZ0V0p1ZUlJdnpjVzF3cXNrPWUQMP/kwj4CYAUSrAEIBxKnAQocRjdWVmxyVUZiNDRQVnFYclVkdy9Ua0lrbHhZPRIkNjY3MGQ0NzMtYjM5ZC00MmI1LWJmZTYtNTk0ZDgzYWVjOGQzGAAgACgAMITVuabkMDjktoTX/y9A5LaE1/8vShwvUllaTjJhWVZYbkFYMjErenU0WjFLWWpxa1k9Wh4iHGZUQmVSTi95TXdCdlA0UEJBcUI5OXFtUW1wST1l/GEfsMI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGJkYmM0MmM1LWU1MzgtNThjZS1hNDRmLWMyODczYzYxODEwNBgAIAAoADDA9Ly60S44yLWE1/8vQMi1hNf/L0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ4ODk4N2VmMS05NTk5LTVkZDQtYmM2Yi1mMWRjMWYxNzVmZTUYACAAKAAwwfS8utEuONi1hNf/L0DYtYTX/y9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkYjU3OWEzMzMtNTQ3ZS01YzZhLThhZjQtMmZjOTk0NzUyODc0GAAgACgAMMX0vLrRLji1toTX/y9AtbaE1/8vShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
